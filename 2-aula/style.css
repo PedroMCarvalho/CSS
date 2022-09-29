@@ -1,0 +1,33 @@
+.efeito-1 {
+    color: darkblue;;
+}
+.efeito-1:hover {
+    color: violet;;
+}
+.efeito-1:active {
+    color: red;
+}
+
+ol > li, h1{
+    color:blueviolet
+}
+
+h3{
+    color:lightgreen;
+}
+
+ul > li{
+    color: brown;
+    list-style-type: square;
+    list-style-position: inside;
+}
+input[type="email"]{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    background-color: blue;
+}
+input[type="name"]{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    background-color: blueviolet;
+}
