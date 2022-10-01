@@ -1,0 +1,284 @@
+#capa {
+
+    height: 320px;
+    width: 100%;
+    margin: 0px 0px 10px 0px;
+    padding: 0px;
+    border-radius: 15px;
+    border: 2px white solid;
+
+}
+
+.header {
+
+    position: relative;
+
+}
+
+.Inícion {
+
+    top: 9px;
+    left: 100px;
+}
+
+.Cinema {
+
+    top: 9px;
+    left: 200px;
+
+}
+
+.Download {
+
+    top: 9px;
+    left: 300px;
+
+}
+
+.Categorias {
+
+    top: 9px;
+    left: 400px;
+}
+
+button {
+
+    position: absolute;
+    background-color: gray;
+    color: white;
+    border: 3px white solid;
+    border-radius: 15px;
+    padding: 10px;
+
+}
+
+button:hover {
+
+    background-color: white;
+    color: black;
+    border: 3px black solid;
+    border-radius: 15px;
+    padding: 10px;
+    cursor: pointer;
+
+}
+
+body {
+
+    background-color: black;
+}
+
+h3 {
+
+    font-size: 1.5em;
+    margin: 0;
+    color: white;
+
+    border-radius: 3px;
+
+}
+
+#zoom1 {
+
+    height: 200px;
+    width: 350px;
+    margin: 5px 15px 5px 5px;
+    padding: 0px;
+    border-radius: 15px;
+    border: 2px solid;
+
+}
+
+#zoom2 {
+
+    height: 200px;
+    width: 350px;
+    margin: 5px 15px 5px 5px;
+    padding: 0px;
+    border-radius: 15px;
+    border: 2px solid;
+
+}
+
+#zoom3 {
+
+    height: 200px;
+    width: 350px;
+    margin: 5px 15px 5px 5px;
+    padding: 0px;
+    border-radius: 15px;
+    border: 2px solid;
+
+}
+
+#zoom4 {
+
+    height: 200px;
+    width: 350px;
+    margin: 5px 15px 5px 5px;
+    padding: 0px;
+    border-radius: 15px;
+    border: 2px solid;
+
+}
+
+#zoom1:hover {
+    -moz-transform: scale(1.3);
+    -webkit-transform: scale(1.3);
+    transform: scale(1.3);
+    cursor: pointer;
+}
+
+#zoom2:hover {
+    -moz-transform: scale(1.3);
+    -webkit-transform: scale(1.3);
+    transform: scale(1.3);
+    cursor: pointer;
+}
+
+#zoom3:hover {
+    -moz-transform: scale(1.3);
+    -webkit-transform: scale(1.3);
+    transform: scale(1.3);
+    cursor: pointer;
+}
+
+#zoom4:hover {
+    -moz-transform: scale(1.3);
+    -webkit-transform: scale(1.3);
+    transform: scale(1.3);
+    cursor: pointer;
+}
+
+#zoom5:hover {
+    -moz-transform: scale(1.3);
+    -webkit-transform: scale(1.3);
+    transform: scale(1.3);
+    cursor: pointer;
+}
+
+#box1 {
+
+    height: 200px;
+    width: 200px;
+    margin: 5px 15px 5px 5px;
+    padding: 0px;
+    border-radius: 15px;
+    border: 2px solid;
+
+}
+
+#box2 {
+
+    height: 200px;
+    width: 200px;
+    margin: 5px 15px 5px 5px;
+    padding: 0px;
+    border-radius: 15px;
+    border: 2px solid;
+
+}
+
+#box3 {
+
+    height: 200px;
+    width: 200px;
+    margin: 5px 15px 5px 5px;
+    padding: 0px;
+    border-radius: 15px;
+    border: 2px solid;
+
+}
+
+#box4 {
+
+    height: 200px;
+    width: 200px;
+    margin: 5px 15px 5px 5px;
+    padding: 0px;
+    border-radius: 15px;
+    border: 2px solid;
+
+}
+
+#box5 {
+
+    height: 200px;
+    width: 200px;
+    margin: 5px 15px 5px 5px;
+    padding: 0px;
+    border-radius: 15px;
+    border: 2px solid;
+
+}
+
+#box6 {
+
+    height: 200px;
+    width: 200px;
+    margin: 5px 15px 5px 5px;
+    padding: 0px;
+    border-radius: 15px;
+    border: 2px solid;
+
+}
+
+#box7 {
+
+    height: 200px;
+    width: 200px;
+    margin: 5px 15px 5px 5px;
+    padding: 0px;
+    border-radius: 15px;
+    border: 2px solid;
+
+}
+
+#box1:hover {
+    -moz-transform: scale(1.3);
+    -webkit-transform: scale(1.3);
+    transform: scale(1.3);
+    cursor: pointer;
+}
+
+#box2:hover {
+    -moz-transform: scale(1.3);
+    -webkit-transform: scale(1.3);
+    transform: scale(1.3);
+    cursor: pointer;
+}
+
+#box3:hover {
+    -moz-transform: scale(1.3);
+    -webkit-transform: scale(1.3);
+    transform: scale(1.3);
+    cursor: pointer;
+}
+
+#box4:hover {
+    -moz-transform: scale(1.3);
+    -webkit-transform: scale(1.3);
+    transform: scale(1.3);
+    cursor: pointer;
+}
+
+#box5:hover {
+    -moz-transform: scale(1.3);
+    -webkit-transform: scale(1.3);
+    transform: scale(1.3);
+    cursor: pointer;
+}
+
+#box6:hover {
+    -moz-transform: scale(1.3);
+    -webkit-transform: scale(1.3);
+    transform: scale(1.3);
+    cursor: pointer;
+}
+
+#box7:hover {
+    -moz-transform: scale(1.3);
+    -webkit-transform: scale(1.3);
+    transform: scale(1.3);
+    cursor: pointer;
+}
