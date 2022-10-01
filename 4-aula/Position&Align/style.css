@@ -1,0 +1,60 @@
+#A {
+    display: inline;
+    
+}
+
+#B {
+    display: inline;
+  
+}
+
+#C {
+    display: inline;
+
+}
+
+#D {
+    display: inline;
+
+}
+
+#Scroll {
+    background-color: green;
+    overflow: scroll;
+    height: 200px;
+    width: 200px;
+    position: absolute;
+    left: 50px;
+
+
+}
+
+#Hidden {
+    background-color: brown;
+    overflow: hidden;
+    height: 200px;
+    width: 200px;
+    position: absolute;
+    left: 350px;
+
+}
+
+#Auto {
+    background-color: blue;
+    overflow: auto;
+    height: 200px;
+    width: 200px;
+    position: absolute;
+    right: 350px;
+
+}
+
+#Visible {
+    background-color: green;
+    overflow: visible;
+    height: 200px;
+    width: 200px;
+    position: absolute;
+    right: 50px;
+
+}
