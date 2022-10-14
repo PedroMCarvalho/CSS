@@ -145,6 +145,7 @@ button {
     border: solid #ac1313;
     background-color: #ac1313;
     transition: filter 2s;
+    
 }
 button:hover {
     color: black;
